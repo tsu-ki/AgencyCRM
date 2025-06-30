@@ -1,0 +1,42 @@
+# Dependency directories
+node_modules/
+
+# Build & production output
+dist/
+build/
+client/dist/
+client/build/
+coverage/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Uploaded/temporary files
+server/uploads/
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.idea/
+.vscode/
+*.sw?
+
+# Misc
+*.tgz 
