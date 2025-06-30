@@ -1,16 +1,6 @@
-# Test
+# AgencyCRM: Real Estate Agency Management System
 
-1. Display time zone on top bar.
-2. When create new Employee, display form validation message(under each field) instead of alert if some fields are empty
-3. Add client button and modal.
-4. Add client edit feature.
-
-## Required:
- Node.js 18+
-
-# GrowCRM: Real Estate Agency Management System
-
-GrowCRM is a comprehensive management system designed to streamline the processes of real estate agencies. It provides a centralized platform for managing various aspects of real estate operations, including lead management, analytics, project and inventory management, task management, notifications, role-based authentication, client and employee management, invoices and cashflow management, approvals management, and more.
+AgencyCRM is a comprehensive management system designed to streamline the processes of real estate agencies. It provides a centralized platform for managing various aspects of real estate operations, including lead management, analytics, project and inventory management, task management, notifications, role-based authentication, client and employee management, invoices and cashflow management, approvals management, and more.
 
 ## Key Features
 
